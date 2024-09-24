@@ -50,7 +50,7 @@ const FeaturedWorksSection = () => {
             using Next.js for the frontend and a Python API for backend processing. The app leverages AI to recommend
              recipes based on user preferences and ingredients, offering a personalized cooking experience. 
              It features a clean and intuitive interface, making it easy for users to discover and try new recipes."
-            src="/works/food.png"
+            src="/works/Food.png"
             height={{ base: '130px', md: '225px', '2xl': '300px' }}
             ctaUrl="https://github.com/jeevan-sysadmin/foodieai2.2"
             isMobile={isMobile}

@@ -59,7 +59,7 @@ const textVariants = {
 }
 
 const theme = extendTheme({
-  config,
+  // config,
   fonts: {
     body: 'Poppins',
   },
